@@ -1,0 +1,12 @@
+{
+  "name": "m3-ai-studio-pro-portfolio",
+  "version": "1.0.0",
+  "description": "Suite profesional de portfolio y servicios AI con selector dinámico de temas, telemetría serverless y diseño estilo Linear/Vercel.",
+  "main": "index.html",
+  "author": "Diego // M3DESIGNS (https://github.com/Diieggoo0)",
+  "license": "MIT",
+  "homepage": "https://github.com/Diieggoo0/m3-ai-studio-pro-portfolio#readme",
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
+}
